@@ -8,5 +8,6 @@ public class Sixteen {
 		// make a comment
 		
 		System.out.println("Seventeen");
+		System.out.println("Eighteen");
 	}
 }
